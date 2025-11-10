@@ -17,7 +17,7 @@ Fecha: 13-11-2025
 
   5. Scripts de Ejercicios: [Ejercicios Taller](Ejercicios)
 
-#### Presentación Deck: [Taller4](https://github.com/MarianoKovo/BePowerBI2025/blob/main/Taller_4_Modelado%20de%20Datos.pdf)
+#### Presentación Deck: [Taller 4 - Modelado de Datos- BePowerBI 2025](https://github.com/MarianoKovo/BePowerBI2025/blob/main/Taller_4_Modelado%20de%20Datos.pdf)
 
 
 
