@@ -1,12 +1,12 @@
 -- ==============================================================
 -- Workshop Dataset: AdventureWorks2022 OLTP - Modelo Estrella Optimizado (Final)
 -- Autor: Mariano Kovo Microsoft MVP 
--- Taller de Modelado y OptimizaciÛn
+-- Taller de Modelado y Optimizaci√≥n
 -- ==============================================================
 -- PRE-REQUISITO 1
 -- Restore de Base de Datos AdventureWorks2022
 -- Restore de Base de Datos AdventureWorks2022LT
--- Modificar par·metros de Ubicaciones en Disco
+-- Modificar par√°metros de Ubicaciones en Disco
 -- =============================================================
 
 
